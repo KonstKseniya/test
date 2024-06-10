@@ -10,5 +10,5 @@ public class Room {
     public Room(int number, List<Human> humans) {
         this.number = number;
         this.humans = new ArrayList<>();
-     }
+    }
 }
